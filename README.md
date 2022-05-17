@@ -278,5 +278,5 @@ $
 ```
 
 ## Authors :
-* Elisha Joshua <elis.joshua55@gmail.com>
-* Shittu Sulaimon Adebare <adebaresulaimon04@gmail.com>
+* Elisha Joshua - <elis.joshua55@gmail.com>
+* Shittu Sulaimon Adebare - <adebaresulaimon04@gmail.com>
